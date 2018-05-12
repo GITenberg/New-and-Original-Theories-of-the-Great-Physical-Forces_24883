@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26791'
     url: http://www.gutenberg.org/2009/agents/26791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24883#New-and-Original-Theories-of-the-Great-Physical-Forces
 gutenberg_issued: '2008-03-20'
 gutenberg_type: Text
 identifiers:
